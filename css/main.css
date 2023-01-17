@@ -628,7 +628,7 @@ select {
 }
 
 .no-webp .footer {
-  background: url("../../img/footer_picture.jpg") no-repeat center top/cover fixed; }
+  background: url("../img/footer_picture.jpg") no-repeat center top/cover fixed; }
 
 .footer {
   padding: 70px 0;
@@ -1398,6 +1398,6 @@ select {
 
 .webp .header { background: url(../img/background.webp) no-repeat center top/cover fixed; }
 
-.webp .footer { background: url(../../img/footer_picture.webp) no-repeat center top/cover fixed; }
+.webp .footer { background: url(../img/footer_picture.webp) no-repeat center top/cover fixed; }
 
 .webp .paralax { background: url(../img/paralax.webp) no-repeat center top/cover fixed; }
